@@ -42,6 +42,7 @@
 ## Public Workspaces
 
 - [AFFiNE Official Blog](https://app.affine.pro/public-workspace/H6vffRmJbCfA-r3kq_36_)
+- [Whitewater](https://app.affine.pro/public-workspace/IP4DuYR1vCrA3R5fJXV76)
 - [himself65](https://app.affine.pro/public-workspace/MTjEmB7Chv-qxl_Yx-Syt)
 - [Chi Zhang](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
 - Add yours here ...
