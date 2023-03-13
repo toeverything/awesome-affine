@@ -6,6 +6,7 @@
 - [affine-reader](https://www.npmjs.com/package/affine-reader) - a simple reader for the blocksuite YJS doc format, which allows you to read an AFFiNE cloud workspace and convert it into markdown.
 - [affine-exporter](https://www.npmjs.com/package/affine-exporter) - a CLI export AFFiNE workspace to markdown files
 - [affine-ghost](https://github.com/tzhangchi/AFFiNE-ghost) - a tool that migrates notes into affine and easily generates an affine blog site from your personal notes by configuring the environment
+- [affine-importer](https://github.com/ShortCipher5/affine-importer) - a tool that can help you import your data into AFFiNE
 
 ## Guides and How-tos
 
@@ -17,6 +18,6 @@
 
 - [AFFiNE Official Blog](https://app.affine.pro/public-workspace/H6vffRmJbCfA-r3kq_36_)
 - [himself65](https://app.affine.pro/public-workspace/MTjEmB7Chv-qxl_Yx-Syt)
-- [Chi Zhang](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
+- [Terry Chi](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
 - Add yours here ...
 
