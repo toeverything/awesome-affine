@@ -1,7 +1,7 @@
 # Awesome AFFiNE [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 😎 Awesome lists about all kinds of interesting topics around AFFiNE built by community members ❤️.
 
-## Librairies
+## Librairies & Tools
 
 - [affine-reader](https://www.npmjs.com/package/affine-reader) - a simple reader for the blocksuite YJS doc format, which allows you to read an AFFiNE cloud workspace and convert it into markdown.
 - [affine-exporter](https://www.npmjs.com/package/affine-exporter) - a CLI export AFFiNE workspace to markdown files
