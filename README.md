@@ -37,8 +37,7 @@
 - [Deploy AFFiNE to Vercel](https://github.com/toeverything/AFFiNE-docs/blob/master/getting-started/deploy-affine-to-vercel.md)
 - [Affine fully managed by Elestio](https://elest.io/open-source/affine)
 - [Self-host AFFiNE with Docker(Pre-Alpha and Alpha Local Setup User Guide)](https://community.affine.pro/c/user-guide/self-host-affine-with-docker-pre-alpha-and-alpha-local-setup-user-guide)
-- [How to Install Affine on Your Synology NAS
-  ](https://mariushosting.com/how-to-install-affine-on-your-synology-nas/)
+- [How to Install Affine on Your Synology NAS](https://mariushosting.com/how-to-install-affine-on-your-synology-nas/)
 
 ## Public Workspaces
 
