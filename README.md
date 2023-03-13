@@ -17,6 +17,6 @@
 
 - [AFFiNE Official Blog](https://app.affine.pro/public-workspace/H6vffRmJbCfA-r3kq_36_)
 - [himself65](https://app.affine.pro/public-workspace/MTjEmB7Chv-qxl_Yx-Syt)
-- [Terry Chi](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
+- [Chi Zhang](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
 - Add yours here ...
 
