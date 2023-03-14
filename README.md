@@ -45,4 +45,5 @@
 - [Whitewater](https://app.affine.pro/public-workspace/IP4DuYR1vCrA3R5fJXV76)
 - [himself65](https://app.affine.pro/public-workspace/MTjEmB7Chv-qxl_Yx-Syt)
 - [Chi Zhang](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
+- [Whitewater](https://blog.waterwater.moe)
 - Add yours here ...
