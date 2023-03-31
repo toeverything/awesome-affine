@@ -40,7 +40,7 @@
 - [Affine fully managed by Elestio](https://elest.io/open-source/affine)
 - [Self-host AFFiNE with Docker(Pre-Alpha and Alpha Local Setup User Guide)](https://community.affine.pro/c/user-guide/self-host-affine-with-docker-pre-alpha-and-alpha-local-setup-user-guide)
 - [How to Install Affine on Your Synology NAS](https://mariushosting.com/how-to-install-affine-on-your-synology-nas/)
-- [Deploy AFFiNE to Zeabur](https://affine.zeabur.app/) 
+- [Deploy AFFiNE to Zeabur](https://zeabur.com) example : https://affine.zeabur.app/ 
 
 ## Public Workspaces
 
