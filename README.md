@@ -25,6 +25,7 @@
 
 ##  Design & UX
 - [affine-storybook](https://affine-storybook.vercel.app/?path=/docs/introduction--docs) This is a UI component dev environment for AFFiNE UI. It allows you to browse the AFFiNE UI components, view the different states of each component, and interactively develop and test components.
+- [affine-logo](https://github.com/toeverything/AFFiNE/tree/master/apps/web/public)
 
 ## Librairies & Tools
 - [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
