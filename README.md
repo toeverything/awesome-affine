@@ -26,6 +26,7 @@
 - [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
 - [affine-app](https://app.affine.pro/) - No installation or registration required! Head over to our website and try it out now.
 - [blocksvite](https://github.com/zzj3720/blocksvite) - A simple Block editor like BlockSuite, based on Vue and @blocksuite/store
+- [homebrew-affine](https://github.com/birdgg/homebrew-affine) - AFFiNE formulae for the Homebrew package manager
 - [affine-reader](https://www.npmjs.com/package/affine-reader) - a simple reader for the blocksuite YJS doc format, which allows you to read an AFFiNE cloud workspace and convert it into markdown.
 - [affine-minimum](https://github.com/Himself65/affine-minimum) - build AFFiNE in minimum code and the most modern way
 - [affine-exporter](https://www.npmjs.com/package/affine-exporter) - a CLI export AFFiNE workspace to markdown files
