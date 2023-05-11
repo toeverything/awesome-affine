@@ -56,6 +56,7 @@
 - [alternativeto AFFiNE](https://alternativeto.net/software/affine/) 
 - [AFFiNE in stackshare](https://stackshare.io/affine/alternatives/)
 - [AFFiNE in libhunt](https://www.libhunt.com/r/AFFiNE) 
+- [AFFiNE.PRO Is an Open-source Self-hosted Knowledge Base and Notion.AI Alternative](https://medevel.com/affine-pro/)
 
 
 
