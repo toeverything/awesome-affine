@@ -45,7 +45,7 @@
 ## Guides and How-tos
 
 - [Start AFFiNE Server By Docker](https://github.com/toeverything/AFFiNE/blob/master/docs/BUILDING.md)
-- [Start AFFiNE Server By Codebase](https://github.com/toeverything/OctoBase/blob/master/apps/handbook/src/quick_start.md)
+- [Start AFFiNE Server By Codebase](https://github.com/toeverything/OctoBase/blob/master/apps/homepage/pages/docs/building_guide.md)
 - [Using AFFiNE as your own blog](https://affine.pro/blog/using-affine-as-a-blog-technical)
 - [Export AFFiNE Workspace](https://pengx17.vercel.app/posts/affine-exporter)
 - [Deploy AFFiNE to Vercel](https://github.com/toeverything/AFFiNE-docs/blob/master/getting-started/deploy-affine-to-vercel.md)
