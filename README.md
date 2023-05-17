@@ -46,6 +46,7 @@
 
 ## Guides and How-tos
 
+- [bestofjs-affine](https://bestofjs.org/projects/affine) -  bestofjs.org affine
 - [Start AFFiNE Server By Docker](https://github.com/toeverything/AFFiNE/blob/master/docs/BUILDING.md)
 - [Start AFFiNE Server By Codebase](https://github.com/toeverything/OctoBase/blob/master/apps/homepage/pages/docs/building_guide.md)
 - [Using AFFiNE as your own blog](https://affine.pro/blog/using-affine-as-a-blog-technical)
