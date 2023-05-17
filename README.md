@@ -38,9 +38,11 @@
 - [homebrew-affine](https://github.com/birdgg/homebrew-affine) - AFFiNE formulae for the Homebrew package manager
 - [affine-reader](https://www.npmjs.com/package/affine-reader) - a simple reader for the blocksuite YJS doc format, which allows you to read an AFFiNE cloud workspace and convert it into markdown.
 - [affine-minimum](https://github.com/Himself65/affine-minimum) - build AFFiNE in minimum code and the most modern way
+- [export-data](https://gist.github.com/pengx17/6e51885d892b0ce2a29e5f5c0e2d84fe) - Export app.affine.pro and import into AFFiNE client
 - [affine-exporter](https://www.npmjs.com/package/affine-exporter) - a CLI export AFFiNE workspace to markdown files
 - [affine-ghost](https://github.com/tzhangchi/AFFiNE-ghost) - a tool that migrates notes into affine and easily generates an affine blog site from your personal notes by configuring the environment
 - [affine-importer](https://github.com/ShortCipher5/affine-importer) - a tool that can help you import your data into AFFiNE
+
 
 ## Guides and How-tos
 
