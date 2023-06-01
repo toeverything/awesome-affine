@@ -25,6 +25,7 @@
 - [Public Workspaces](#public-workspaces)
 
 ##  Design & UX
+- [affine-design](https://github.com/toeverything/design) - Design System for the blocksuite/AFFiNE
 - [affine-homepage](https://github.com/toeverything/affine.pro) - The source for affine.pro
 - [affine-storybook](https://affine-storybook.vercel.app/?path=/docs/introduction--docs) This is a UI component dev environment for AFFiNE UI. It allows you to browse the AFFiNE UI components, view the different states of each component, and interactively develop and test components.
 - [affine-logo](https://github.com/toeverything/AFFiNE/tree/master/apps/web/public)
