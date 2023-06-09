@@ -73,3 +73,19 @@
 - [Chi Zhang](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
 - [Whitewater](https://blog.waterwater.moe)
 - Add yours here ...
+
+# Contributors
+
+We would like to express our gratitude to all the individuals who have already contributed to AFFiNE! If you have any AFFiNE-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-affine](https://github.com/toeverything/awesome-affine).
+<a href="https://github.com/toeverything/blocksuite/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=toeverything/blocksuite" />
+</a>
+<a href="https://github.com/toeverything/affine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=toeverything/affine" />
+</a>
+<a href="https://github.com/toeverything/octobase/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=toeverything/octobase" />
+</a>
+<a href="https://github.com/toeverything/affine.pro/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=toeverything/affine.pro" />
+</a>
