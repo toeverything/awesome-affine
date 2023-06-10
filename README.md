@@ -89,3 +89,6 @@ We would like to express our gratitude to all the individuals who have already c
 <a href="https://github.com/toeverything/affine.pro/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=toeverything/affine.pro" />
 </a>
+<a href="https://github.com/toeverything/design/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=toeverything/design" />
+</a>
