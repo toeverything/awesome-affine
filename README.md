@@ -57,7 +57,9 @@
 - [AFFiNE fully managed by Elestio](https://elest.io/open-source/affine)
 - [Self-host AFFiNE with Docker(Pre-Alpha and Alpha Local Setup User Guide)](https://community.affine.pro/c/user-guide/self-host-affine-with-docker-pre-alpha-and-alpha-local-setup-user-guide)
 - [How to Install AFFiNE on Your Synology NAS](https://mariushosting.com/how-to-install-affine-on-your-synology-nas/)
-- [Deploy AFFiNE to Zeabur](https://zeabur.com) example : https://affine.zeabur.app/ 
+- [Deploy AFFiNE to Zeabur](https://zeabur.com) example : https://affine.zeabur.app/
+  
+  <a href='https://dash.zeabur.com/templates/J8CLC1'><img src='https://zeabur.com/button.svg'/></a>
 - [alternativeto AFFiNE](https://alternativeto.net/software/affine/) 
 - [AFFiNE in stackshare](https://stackshare.io/affine/alternatives/)
 - [AFFiNE in libhunt](https://www.libhunt.com/r/AFFiNE) 
