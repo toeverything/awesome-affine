@@ -19,7 +19,7 @@
 # Contents
 
 - [Design & UX](#design-&-ux)
-- [Templates](#templates)
+- [Plugins](#plugins)
 - [Librairies & Tools](#librairies-&-tools)
 - [Guides and How-tos](#guides-and-how-tos)
 - [Public Workspaces](#public-workspaces)
@@ -30,8 +30,11 @@
 - [affine-storybook](https://affine-storybook.vercel.app/?path=/docs/introduction--docs) This is a UI component dev environment for AFFiNE UI. It allows you to browse the AFFiNE UI components, view the different states of each component, and interactively develop and test components.
 - [affine-logo](https://github.com/toeverything/AFFiNE/tree/master/apps/web/public)
 
-## Templates
-- [affine-database-template](https://github.com/tzhangchi/affine-database-template) - AFFiNE Template for Dashboard with Knowledge Base and Management System for PKM
+## Plugins
+- [copilot](https://github.com/toeverything/AFFiNE/tree/master/plugins/copilot) - AI Copilot for your writing
+- [bookmark-block](https://github.com/toeverything/AFFiNE/tree/master/plugins/bookmark-block) - AFFiNE bookmark block
+
+
 
 ## Librairies & Tools
 - [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
