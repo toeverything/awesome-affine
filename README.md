@@ -18,13 +18,16 @@
 
 # Contents
 
-- [Design & UX](#design-&-ux)
+- [Design](#design)
 - [Plugins](#plugins)
-- [Librairies & Tools](#librairies-&-tools)
-- [Guides and How-tos](#guides-and-how-tos)
 - [Public Workspaces](#public-workspaces)
+- [Case Studies](#case-studies)
+- [Librairies](#librairies)
+- [Tools](#tools)
+- [Guides and How-tos](#guides-and-how-tos)
 
-##  Design & UX
+
+## Design
 - [affine-design](https://github.com/toeverything/design) - Design System for the blocksuite/AFFiNE
 - [affine-homepage](https://github.com/toeverything/affine.pro) - The source for affine.pro
 - [affine-storybook](https://affine-storybook.vercel.app/?path=/docs/introduction--docs) This is a UI component dev environment for AFFiNE UI. It allows you to browse the AFFiNE UI components, view the different states of each component, and interactively develop and test components.
@@ -34,20 +37,33 @@
 - [copilot](https://github.com/toeverything/AFFiNE/tree/master/plugins/copilot) - AI Copilot for your writing
 - [bookmark-block](https://github.com/toeverything/AFFiNE/tree/master/plugins/bookmark-block) - AFFiNE bookmark block
 
+## Public Workspaces
 
+- [AFFiNE Official Blog](https://app.affine.pro/public-workspace/H6vffRmJbCfA-r3kq_36_)
+- [himself65](https://app.affine.pro/public-workspace/MTjEmB7Chv-qxl_Yx-Syt)
+- [Chi Zhang](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
+- [Whitewater](https://blog.waterwater.moe)
+- Add yours here ...
 
-## Librairies & Tools
-- [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
+## Case Studies
+
+> Applications built using BlockSuite and Octobase
 - [affine-app](https://app.affine.pro/) - No installation or registration required! Head over to our website and try it out now.
+- [affine-minimum](https://github.com/Himself65/affine-minimum) - build AFFiNE in minimum code and the most modern way
+
+
+## Librairies 
+- [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
 - [blocksvite](https://github.com/zzj3720/blocksvite) - A simple Block editor like BlockSuite, based on Vue and @blocksuite/store
+
+
+## Tools
 - [homebrew-affine](https://github.com/birdgg/homebrew-affine) - AFFiNE formulae for the Homebrew package manager
 - [affine-reader](https://www.npmjs.com/package/affine-reader) - a simple reader for the blocksuite YJS doc format, which allows you to read an AFFiNE cloud workspace and convert it into markdown.
-- [affine-minimum](https://github.com/Himself65/affine-minimum) - build AFFiNE in minimum code and the most modern way
 - [export-data](https://gist.github.com/pengx17/6e51885d892b0ce2a29e5f5c0e2d84fe) - Export app.affine.pro and import into AFFiNE client
 - [affine-exporter](https://www.npmjs.com/package/affine-exporter) - a CLI export AFFiNE workspace to markdown files
 - [affine-ghost](https://github.com/tzhangchi/AFFiNE-ghost) - a tool that migrates notes into affine and easily generates an affine blog site from your personal notes by configuring the environment
 - [affine-importer](https://github.com/ShortCipher5/affine-importer) - a tool that can help you import your data into AFFiNE
-
 
 ## Guides and How-tos
 
@@ -70,14 +86,6 @@
 
 
 
-
-## Public Workspaces
-
-- [AFFiNE Official Blog](https://app.affine.pro/public-workspace/H6vffRmJbCfA-r3kq_36_)
-- [himself65](https://app.affine.pro/public-workspace/MTjEmB7Chv-qxl_Yx-Syt)
-- [Chi Zhang](https://app.affine.pro/public-workspace/fDTUaZ5qmV-MYIBnFKuQz)
-- [Whitewater](https://blog.waterwater.moe)
-- Add yours here ...
 
 # Contributors
 
