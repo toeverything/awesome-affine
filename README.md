@@ -50,7 +50,8 @@
 > Applications built using BlockSuite and Octobase
 - [affine-app](https://app.affine.pro/) - No installation or registration required! Head over to our website and try it out now.
 - [affine-minimum](https://github.com/Himself65/affine-minimum) - build AFFiNE in minimum code and the most modern way
-
+- [affine-developer](https://affine-developer.vercel.app/) - Waku + BlockSuite
+- [Aregridjs](https://aregridjs.vercel.app/) - Agnular + BlockSuite + Octobase
 
 ## Librairies 
 - [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
