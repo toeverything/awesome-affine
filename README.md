@@ -22,7 +22,7 @@
 - [Plugins](#plugins)
 - [Public Workspaces](#public-workspaces)
 - [Case Studies](#case-studies)
-- [Librairies](#librairies)
+- [Libraries](#libraries)
 - [Tools](#tools)
 - [Guides and How-tos](#guides-and-how-tos)
 
@@ -55,7 +55,7 @@
 - [affine-developer](https://affine-developer.vercel.app/) - Waku + BlockSuite
 - [Aregridjs](https://aregridjs.vercel.app/) - Angular + BlockSuite + Octobase
 
-## Librairies 
+## Libraries 
 - [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
 - [blocksvite](https://github.com/zzj3720/blocksvite) - A simple Block editor like BlockSuite, based on Vue and @blocksuite/store
 
