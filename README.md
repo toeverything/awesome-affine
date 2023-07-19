@@ -70,6 +70,7 @@
 
 ## Guides and How-tos
 
+- [TypeScript - AFFiNE, Yjs, BlockSuite and Jotai](https://themutex.substack.com/p/9-typescript-affine-yjs-blocksuite?r=3fc3a&utm_campaign=post&utm_medium=web)
 - [bestofjs-affine](https://bestofjs.org/projects/affine) -  bestofjs.org affine
 - [Start AFFiNE Server By Docker](https://github.com/toeverything/AFFiNE/blob/master/docs/BUILDING.md)
 - [Start AFFiNE Server By Codebase](https://github.com/toeverything/OctoBase/blob/master/apps/homepage/pages/docs/building_guide.md)
@@ -86,7 +87,6 @@
 - [AFFiNE in stackshare](https://stackshare.io/affine/alternatives/)
 - [AFFiNE in libhunt](https://www.libhunt.com/r/AFFiNE) 
 - [AFFiNE.PRO Is an Open-source Self-hosted Knowledge Base and Notion.AI Alternative](https://medevel.com/affine-pro/)
-
 
 
 
