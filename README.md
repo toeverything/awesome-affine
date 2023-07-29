@@ -36,6 +36,7 @@
 ## Plugins
 - [copilot](https://github.com/toeverything/AFFiNE/tree/master/plugins/copilot) - AI Copilot for your writing
 - [bookmark-block](https://github.com/toeverything/AFFiNE/tree/master/plugins/bookmark-block) - AFFiNE bookmark block
+- [Outline](https://github.com/toeverything/AFFiNE/pull/3135/files) - AFFiNE Outline
 
 ## Public Workspaces
 
