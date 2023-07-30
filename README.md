@@ -34,6 +34,7 @@
 - [affine-logo](https://github.com/toeverything/AFFiNE/tree/master/apps/web/public)
 
 ## Plugins
+- [hello-world](https://github.com/toeverything/AFFiNE/tree/master/plugins/hello-world) - a hello-world Plugin Template
 - [copilot](https://github.com/toeverything/AFFiNE/tree/master/plugins/copilot) - AI Copilot for your writing
 - [bookmark-block](https://github.com/toeverything/AFFiNE/tree/master/plugins/bookmark-block) - AFFiNE bookmark block
 - [image-preview](https://github.com/toeverything/AFFiNE/tree/master/plugins/image-preview) - AFFiNE image preview
