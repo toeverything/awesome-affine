@@ -57,7 +57,8 @@
 - [affine-minimum](https://github.com/Himself65/affine-minimum) - build AFFiNE in minimum code and the most modern way
 - [affine-developer](https://affine-developer.vercel.app/) - Waku + BlockSuite
 - [Aregridjs](https://aregridjs.vercel.app/) - Angular + BlockSuite + Octobase
-
+- [revezone](https://github.com/revezone/revezone) - A new way to use Excalidraw. A lightweight productivity tool to build your Second Brain that integrates enhanced Excalidraw whiteboard and Notion-like note-taking features.
+  
 ## Libraries 
 - [affine-client](https://github.com/toeverything/AFFiNE/releases) - New desktop apps are under rapid development and lots of minor releases have been made.
 - [blocksvite](https://github.com/zzj3720/blocksvite) - A simple Block editor like BlockSuite, based on Vue and @blocksuite/store
