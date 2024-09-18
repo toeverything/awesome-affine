@@ -19,7 +19,7 @@
 # Contents
 
 - [Design](#design)
-- [Template](#Template)
+- [Template](#template)
 - [Plugins](#plugins)
 - [Public Workspaces](#public-workspaces)
 - [Case Studies](#case-studies)
@@ -27,7 +27,7 @@
 - [Tools](#tools)
 - [Guides and How-tos](#guides-and-how-tos)
 
-  ## AFFiNE Template
+  ## Template
 - [Cornell Note Template](https://affine.pro/templates/category-cornell-notes-template)
 - [Smart Goal Template](https://affine.pro/templates/category-smart-goal-template)
 - [Vision Board Template](https://affine.pro/templates/category-vision-board-template)
