@@ -100,6 +100,13 @@
 - [Self-host AFFiNE with Docker(Pre-Alpha and Alpha Local Setup User Guide)](https://community.affine.pro/c/user-guide/self-host-affine-with-docker-pre-alpha-and-alpha-local-setup-user-guide)
 - [How to Install AFFiNE on Your Synology NAS](https://mariushosting.com/how-to-install-affine-on-your-synology-nas/)
 - [Deploy AFFiNE to Zeabur](https://zeabur.com) example : https://affine.zeabur.app/
+- [One Pager Template Blog](https://affine.pro/blog/top-12-one-pager-examples-how-to-create-your-own)
+- [Best Planner App](https://affine.pro/blog/top-10-best-free-digital-planner-apps-2023)
+- [Travel Itinerary Planner Templates](https://affine.pro/blog/free-customized-travel-itinerary-planner-templates)
+- [Evernote Alternative](https://affine.pro/blog/top-10-Evernote-Alternatives)
+- [Note Taking AI From rough notes to mind map](https://affine.pro/blog/note-taking-ai-from-rough-notes-to-mind-map)
+- [The Best Note Taking Apps Used by Harvard Students](https://affine.pro/blog/the-best-note-taking-apps-used-by-harvard-students)
+- [Calendar Template](https://affine.pro/blog/free-8-printable-customizable-monthly-calendar-templates-examples)
   
   <a href='https://dash.zeabur.com/templates/J8CLC1'><img src='https://zeabur.com/button.svg'/></a>
 - [alternativeto AFFiNE](https://alternativeto.net/software/affine/) 
