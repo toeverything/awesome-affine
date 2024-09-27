@@ -34,6 +34,9 @@
 - [SOP Template](https://affine.pro/templates/category-standard-operating-procedure-template)
 - [Meal Plan Template](https://affine.pro/templates/category-meal-plan-template)
 - [Checklist Template](https://affine.pro/templates/category-checklist-template)
+- [Digital Planner](https://affine.pro/templates/category-digital-planner)
+- [One Pager Template](https://affine.pro/templates/category-one-pager-template-free)
+- [Travel Itinerary Template](https://affine.pro/templates/category-free-travel-itinerary-template)
 
 
 ## Design
