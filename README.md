@@ -37,6 +37,7 @@
 - [Digital Planner](https://affine.pro/templates/category-digital-planner)
 - [One Pager Template](https://affine.pro/templates/category-one-pager-template-free)
 - [Travel Itinerary Template](https://affine.pro/templates/category-free-travel-itinerary-template)
+- [Storyboard Template](https://affine.pro/templates/category-storyboard-template)
 
 
 ## Design
@@ -107,6 +108,9 @@
 - [Note Taking AI From rough notes to mind map](https://affine.pro/blog/note-taking-ai-from-rough-notes-to-mind-map)
 - [The Best Note Taking Apps Used by Harvard Students](https://affine.pro/blog/the-best-note-taking-apps-used-by-harvard-students)
 - [Calendar Template](https://affine.pro/blog/free-8-printable-customizable-monthly-calendar-templates-examples)
+- [Storyboard Template](https://affine.pro/blog/free-best-8-storyboard-templates-examples)
+- [Vision Board Ideas](https://affine.pro/blog/15-creative-vision-board-ideas)
+- [Project Board](https://affine.pro/blog/top-5-project-board-apps)
   
   <a href='https://dash.zeabur.com/templates/J8CLC1'><img src='https://zeabur.com/button.svg'/></a>
 - [alternativeto AFFiNE](https://alternativeto.net/software/affine/) 
